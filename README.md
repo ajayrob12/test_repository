@@ -1,5 +1,38 @@
 # test_repository
 
+	Digital Devil Story Trilogy
+		Book 1
+	   Reincarnation of 
+	     the Goddess
+	 Written by Nishitani Aya
+	 Translated by Masakado
+	    Edited by Zehava
+Table of Contents
+Prologue – Chapter 1 [PC1]
+Prologue –Chapter 2 [PC2]
+Prologue –Chapter 3 [PC3]
+Prologue –Chapter 4 [PC4]
+Night of Demons –Chapter 1 [ND1]
+Night of Demons –Chapter 2 [ND2]
+Transfer – Chapter 1 [TC1]
+Transfer –Chapter 2 [TC2]
+Possession –Chapter 1 [PC1]
+Possession –Chapter 2 [PC2]
+Down the Road –Chapter 1 [DR1]
+Down the Road –Chapter 2 [DR2]
+Down the Road –Chapter 3 [DR3]
+Down the Road –Chapter 4 [DR4]
+Down the Road –Chapter 5 [DR5]
+Down the Road –Chapter 6 [DR6]
+Sword of Flame –Chapter 1 [SF1]
+Sword of Flame –Chapter 2 [SF2]
+Sword of Flame –Chapter 3 [SF3]
+Sword of Flame –Chapter 4 [SF4]
+Sword of Flame –Chapter 5 [SF5]
+Epilogue [EPL
+
+Prologue – Chapter 1 [PC1]
+
 This story takes place eighteen years ago, when most people did not even know of the existence of 
 the Internet, and personal computers were normally thought of as standalone devices.
 In a town called Kuniritsu, a suburb of Tokyo, there was a school known as Jusho High. Everything 
